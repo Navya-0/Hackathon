@@ -1,0 +1,101 @@
+CandidateID,Experience(Years),Skills,Education,Certifications,Projects,Domain,PreferredRole
+1,13,"Payroll Processing, Taxation, HR Policies",BSc Information Technology,SHRM Certified,E-commerce System Design,DevOps,Compensation
+2,5,"Payroll Processing, Taxation, HR Policies",BBA,Tableau Certification,"Customer Churn Analysis, Sales Forecasting",Software Development,Absences
+3,5,"Python, Tableau, Data Visualization",BSc Computer Science,SHRM Certified,Recruitment Optimization Project,Human Resources,ORC
+4,9,"Python, Tableau, Data Visualization",MSc Artificial Intelligence,Google Cloud AI Certification,Compensation Benchmarking,DevOps,ORC
+5,4,"Leave Management, HR Analytics, Employee Engagement",BBA,Strategic HR Planning,Sales Data Analysis,DevOps,ORC
+6,12,"Python, TensorFlow, Deep Learning",MBA Human Resources,Certified Payroll Professional,E-commerce System Design,DevOps,Compensation
+7,3,"Python, TensorFlow, Deep Learning",MSc Artificial Intelligence,Certified Payroll Professional,Compensation Benchmarking,Software Development,Payroll
+8,9,"Python, Tableau, Data Visualization",MBA Human Resources,Certified Compensation Analyst,Employee Retention Strategies,DevOps,Compensation
+9,6,"Python, Tableau, Data Visualization",BSc Information Technology,Strategic HR Planning,"Customer Churn Analysis, Sales Forecasting",Data Science,Compensation
+10,9,"Performance Management, Succession Planning",BSc Computer Science,People Analytics Certification,Employee Retention Strategies,Payroll,Payroll
+11,5,"Python, Tableau, Data Visualization",BSc Computer Science,"Data Science Certification, AWS Certified",Cloud Infrastructure Design,Data Science,Core HR
+12,6,"Python, TensorFlow, Deep Learning",BSc Computer Science,SHRM Certified,Sales Data Analysis,Payroll,Core HR
+13,11,"Recruitment, Talent Acquisition, ATS",MSc Artificial Intelligence,SHRM Certified,E-commerce System Design,Payroll,Compensation
+14,15,"Java, Spring Boot, Microservices, APIs",BSc Data Analytics,Tableau Certification,Cloud Infrastructure Design,Software Development,Payroll
+15,2,"Payroll Processing, Taxation, HR Policies",BSc Information Technology,Certified Compensation Analyst,Absenteeism Analysis,Data Science,Core HR
+16,10,"Python, Tableau, Data Visualization",BSc Computer Science,Google Cloud AI Certification,Sales Data Analysis,Human Resources,Absences
+17,7,"Python, TensorFlow, Deep Learning",BBA,Oracle Certified Java Developer,Payroll Automation,Payroll,Compensation
+18,13,"Python, SQL, Data Analysis, Machine Learning",MSc Artificial Intelligence,People Analytics Certification,Recruitment Optimization Project,Payroll,Absences
+19,10,"Recruitment, Talent Acquisition, ATS",BBA,AWS Certified Solutions Architect,Cloud Infrastructure Design,Human Resources,Payroll
+20,5,"Java, Spring Boot, Microservices, APIs",BSc Data Analytics,Oracle Certified Java Developer,Employee Retention Strategies,Payroll,Absences
+21,11,"Cloud Computing, DevOps, Kubernetes",BSc Computer Science,Oracle Certified Java Developer,Sales Data Analysis,Software Development,Compensation
+22,5,"Payroll Processing, Taxation, HR Policies",BSc Information Technology,"Data Science Certification, AWS Certified",Payroll Automation,DevOps,Compensation
+23,7,"Performance Management, Succession Planning",BBA,Google Cloud AI Certification,Payroll Automation,Software Development,Core HR
+24,4,"Cloud Computing, DevOps, Kubernetes",MSc Artificial Intelligence,Strategic HR Planning,"Customer Churn Analysis, Sales Forecasting",Payroll,Absences
+25,13,"Compensation Analysis, HR Compliance",BBA,Certified Compensation Analyst,Compensation Benchmarking,Human Resources,Absences
+26,9,"Leave Management, HR Analytics, Employee Engagement",BBA,Certified Compensation Analyst,"Customer Churn Analysis, Sales Forecasting",Data Science,ORC
+27,11,"Cloud Computing, DevOps, Kubernetes",MSc Artificial Intelligence,SHRM Certified,Recruitment Optimization Project,Payroll,Absences
+28,3,"Python, SQL, Data Analysis, Machine Learning",BSc Computer Science,Oracle Certified Java Developer,"Customer Churn Analysis, Sales Forecasting",Software Development,Payroll
+29,4,"Payroll Processing, Taxation, HR Policies",BSc Data Analytics,Tableau Certification,E-commerce System Design,Software Development,Compensation
+30,13,"Leave Management, HR Analytics, Employee Engagement",BSc Data Analytics,Certified Compensation Analyst,Compensation Benchmarking,DevOps,Payroll
+31,5,"Compensation Analysis, HR Compliance",BSc Information Technology,Certified Payroll Professional,Cloud Infrastructure Design,Human Resources,Compensation
+32,5,"Performance Management, Succession Planning",BSc Information Technology,Certified Payroll Professional,"Customer Churn Analysis, Sales Forecasting",DevOps,Payroll
+33,6,"Recruitment, Talent Acquisition, ATS",BSc Information Technology,Strategic HR Planning,Employee Retention Strategies,Data Science,Payroll
+34,7,"Recruitment, Talent Acquisition, ATS",MBA Human Resources,Certified Payroll Professional,Absenteeism Analysis,Software Development,Core HR
+35,9,"Leave Management, HR Analytics, Employee Engagement",MSc Artificial Intelligence,Google Cloud AI Certification,Recruitment Optimization Project,Software Development,Payroll
+36,7,"Leave Management, HR Analytics, Employee Engagement",MSc Artificial Intelligence,Certified Payroll Professional,Recruitment Optimization Project,DevOps,Absences
+37,14,"Cloud Computing, DevOps, Kubernetes",BBA,Strategic HR Planning,Employee Retention Strategies,Software Development,Compensation
+38,9,"Java, Spring Boot, Microservices, APIs",MBA Human Resources,People Analytics Certification,"Customer Churn Analysis, Sales Forecasting",Payroll,Payroll
+39,5,"Python, SQL, Data Analysis, Machine Learning",BSc Data Analytics,Tableau Certification,Image Classification Project,Data Science,Compensation
+40,6,"Python, TensorFlow, Deep Learning",BBA,Oracle Certified Java Developer,Employee Retention Strategies,Data Science,Payroll
+41,13,"Java, Spring Boot, Microservices, APIs",BSc Data Analytics,People Analytics Certification,Recruitment Optimization Project,Payroll,Absences
+42,3,"Java, Spring Boot, Microservices, APIs",BSc Data Analytics,Oracle Certified Java Developer,Payroll Automation,Payroll,Payroll
+43,14,"Compensation Analysis, HR Compliance",BSc Computer Science,SHRM Certified,Image Classification Project,Data Science,Core HR
+44,12,"Python, Tableau, Data Visualization",MSc Artificial Intelligence,Certified Compensation Analyst,Cloud Infrastructure Design,DevOps,ORC
+45,12,"Python, Tableau, Data Visualization",BSc Computer Science,SHRM Certified,Payroll Automation,Software Development,Absences
+46,12,"Java, Spring Boot, Microservices, APIs",MSc Artificial Intelligence,"Data Science Certification, AWS Certified",Recruitment Optimization Project,Data Science,Payroll
+47,7,"Python, TensorFlow, Deep Learning",BBA,"Data Science Certification, AWS Certified",Cloud Infrastructure Design,DevOps,Compensation
+48,8,"Recruitment, Talent Acquisition, ATS",BSc Data Analytics,Certified Compensation Analyst,Cloud Infrastructure Design,Software Development,Core HR
+49,10,"Cloud Computing, DevOps, Kubernetes",BSc Information Technology,"Data Science Certification, AWS Certified",E-commerce System Design,Human Resources,Payroll
+50,8,"Payroll Processing, Taxation, HR Policies",BBA,Tableau Certification,Payroll Automation,Software Development,ORC
+51,5,"Cloud Computing, DevOps, Kubernetes",BSc Information Technology,Tableau Certification,Absenteeism Analysis,Software Development,Compensation
+52,10,"Python, SQL, Data Analysis, Machine Learning",BSc Data Analytics,Google Cloud AI Certification,Image Classification Project,DevOps,Compensation
+53,14,"Python, Tableau, Data Visualization",BSc Information Technology,AWS Certified Solutions Architect,E-commerce System Design,Payroll,Core HR
+54,7,"Python, TensorFlow, Deep Learning",BSc Computer Science,Oracle Certified Java Developer,Recruitment Optimization Project,Payroll,Payroll
+55,13,"Java, Spring Boot, Microservices, APIs",MBA Human Resources,People Analytics Certification,Compensation Benchmarking,Software Development,ORC
+56,2,"Payroll Processing, Taxation, HR Policies",MBA Human Resources,People Analytics Certification,Sales Data Analysis,DevOps,Absences
+57,4,"Python, Tableau, Data Visualization",BBA,Google Cloud AI Certification,Compensation Benchmarking,Human Resources,Payroll
+58,10,"Python, SQL, Data Analysis, Machine Learning",MBA Human Resources,Google Cloud AI Certification,Compensation Benchmarking,DevOps,Core HR
+59,10,"Python, SQL, Data Analysis, Machine Learning",MBA Human Resources,Certified Payroll Professional,Employee Retention Strategies,DevOps,Core HR
+60,5,"Python, TensorFlow, Deep Learning",MSc Artificial Intelligence,Oracle Certified Java Developer,Employee Retention Strategies,Software Development,Payroll
+61,5,"Performance Management, Succession Planning",BSc Computer Science,Strategic HR Planning,Sales Data Analysis,Payroll,Compensation
+62,13,"Recruitment, Talent Acquisition, ATS",BBA,Certified Compensation Analyst,Cloud Infrastructure Design,Human Resources,Payroll
+63,12,"Compensation Analysis, HR Compliance",BSc Information Technology,Certified Compensation Analyst,Payroll Automation,Payroll,Compensation
+64,14,"Python, SQL, Data Analysis, Machine Learning",MSc Artificial Intelligence,Oracle Certified Java Developer,"Customer Churn Analysis, Sales Forecasting",DevOps,Absences
+65,6,"Java, Spring Boot, Microservices, APIs",BSc Data Analytics,Tableau Certification,Absenteeism Analysis,DevOps,Core HR
+66,9,"Python, Tableau, Data Visualization",BSc Data Analytics,Tableau Certification,Sales Data Analysis,Software Development,Core HR
+67,5,"Performance Management, Succession Planning",BBA,Certified Compensation Analyst,Recruitment Optimization Project,Payroll,Payroll
+68,10,"Leave Management, HR Analytics, Employee Engagement",BBA,AWS Certified Solutions Architect,Employee Retention Strategies,Software Development,Payroll
+69,6,"Python, TensorFlow, Deep Learning",BBA,AWS Certified Solutions Architect,Payroll Automation,Payroll,Absences
+70,2,"Python, Tableau, Data Visualization",BSc Data Analytics,Strategic HR Planning,Image Classification Project,Software Development,Core HR
+71,6,"Cloud Computing, DevOps, Kubernetes",MSc Artificial Intelligence,Google Cloud AI Certification,Recruitment Optimization Project,Software Development,Compensation
+72,9,"Compensation Analysis, HR Compliance",BSc Computer Science,Certified Payroll Professional,Compensation Benchmarking,DevOps,Core HR
+73,10,"Leave Management, HR Analytics, Employee Engagement",BBA,Certified Payroll Professional,Recruitment Optimization Project,Human Resources,Core HR
+74,6,"Java, Spring Boot, Microservices, APIs",BSc Information Technology,Strategic HR Planning,Recruitment Optimization Project,Payroll,Payroll
+75,13,"Cloud Computing, DevOps, Kubernetes",BSc Computer Science,People Analytics Certification,Payroll Automation,Data Science,Absences
+76,3,"Java, Spring Boot, Microservices, APIs",BSc Data Analytics,AWS Certified Solutions Architect,E-commerce System Design,DevOps,Core HR
+77,15,"Performance Management, Succession Planning",BBA,Certified Payroll Professional,Image Classification Project,Data Science,Core HR
+78,3,"Compensation Analysis, HR Compliance",MSc Artificial Intelligence,"Data Science Certification, AWS Certified",Sales Data Analysis,Human Resources,Core HR
+79,8,"Java, Spring Boot, Microservices, APIs",MBA Human Resources,Tableau Certification,Recruitment Optimization Project,DevOps,ORC
+80,2,"Leave Management, HR Analytics, Employee Engagement",BSc Information Technology,SHRM Certified,Absenteeism Analysis,DevOps,Core HR
+81,9,"Python, SQL, Data Analysis, Machine Learning",BSc Computer Science,AWS Certified Solutions Architect,Cloud Infrastructure Design,DevOps,Absences
+82,12,"Leave Management, HR Analytics, Employee Engagement",MSc Artificial Intelligence,Google Cloud AI Certification,Absenteeism Analysis,Data Science,Compensation
+83,15,"Recruitment, Talent Acquisition, ATS",BSc Information Technology,Tableau Certification,Sales Data Analysis,Human Resources,Compensation
+84,7,"Python, TensorFlow, Deep Learning",BSc Information Technology,Certified Compensation Analyst,Payroll Automation,Software Development,Compensation
+85,13,"Recruitment, Talent Acquisition, ATS",BSc Data Analytics,Certified Compensation Analyst,Recruitment Optimization Project,Human Resources,Compensation
+86,10,"Python, SQL, Data Analysis, Machine Learning",BSc Data Analytics,Certified Payroll Professional,Recruitment Optimization Project,Data Science,Absences
+87,6,"Java, Spring Boot, Microservices, APIs",BSc Information Technology,AWS Certified Solutions Architect,E-commerce System Design,Software Development,Core HR
+88,4,"Compensation Analysis, HR Compliance",BBA,Strategic HR Planning,"Customer Churn Analysis, Sales Forecasting",DevOps,Payroll
+89,4,"Leave Management, HR Analytics, Employee Engagement",MSc Artificial Intelligence,Certified Compensation Analyst,Image Classification Project,Human Resources,Compensation
+90,12,"Recruitment, Talent Acquisition, ATS",BSc Information Technology,Tableau Certification,Absenteeism Analysis,Human Resources,Compensation
+91,11,"Python, TensorFlow, Deep Learning",BSc Information Technology,SHRM Certified,Compensation Benchmarking,Data Science,Absences
+92,3,"Leave Management, HR Analytics, Employee Engagement",BBA,Certified Compensation Analyst,"Customer Churn Analysis, Sales Forecasting",Payroll,ORC
+93,11,"Python, Tableau, Data Visualization",MSc Artificial Intelligence,Tableau Certification,Payroll Automation,Data Science,ORC
+94,11,"Java, Spring Boot, Microservices, APIs",BBA,Google Cloud AI Certification,Compensation Benchmarking,Payroll,Absences
+95,12,"Leave Management, HR Analytics, Employee Engagement",MSc Artificial Intelligence,Strategic HR Planning,Image Classification Project,Software Development,Core HR
+96,6,"Recruitment, Talent Acquisition, ATS",MSc Artificial Intelligence,Strategic HR Planning,Cloud Infrastructure Design,Software Development,Absences
+97,10,"Cloud Computing, DevOps, Kubernetes",BSc Information Technology,Certified Compensation Analyst,"Customer Churn Analysis, Sales Forecasting",Software Development,Payroll
+98,15,"Recruitment, Talent Acquisition, ATS",BSc Information Technology,AWS Certified Solutions Architect,Image Classification Project,Human Resources,Absences
+99,8,"Performance Management, Succession Planning",MBA Human Resources,SHRM Certified,Employee Retention Strategies,DevOps,Core HR
+100,10,"Java, Spring Boot, Microservices, APIs",BSc Computer Science,Certified Payroll Professional,Compensation Benchmarking,Human Resources,Absences
